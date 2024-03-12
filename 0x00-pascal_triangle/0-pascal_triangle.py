@@ -15,3 +15,5 @@ def pascal_triangle(n):
         triangle.append(row)
 
     return triangle
+n = i
+print(pascal_triangle(n))
